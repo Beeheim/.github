@@ -1,2 +1,1 @@
-# .github
-The Beeheim Valheim Community Server Project
+# Beeheim Valheim Community 
